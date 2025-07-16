@@ -1,4 +1,4 @@
-# 🎨 Colorize-with-DeOldify
+# 🎨 Colourize-with-DeOldify
 
 Colorize black-and-white images using **DeOldify**, a powerful deep learning model based on:
 
