@@ -5,7 +5,7 @@ Colorize black-and-white images using **DeOldify**, a powerful deep learning mod
 - ⚙️ **NoGAN training** (Perceptual Pretraining + GAN Refinement)
 - 🧠 **ResNet34 encoder** + **UNet decoder** with **Self-Attention**
 - 🐍 Built using the **FastAI** framework
-- 🎛️ Adjustable **Render Factor** for fine control over output detail
+- 🎛️ Adjustable **Render Factor** for fine control over output detail.
 
 Utilizes **transfer learning**, **VGG-based perceptual loss**, and **Generative Adversarial Networks (GANs)** to transform grayscale images into rich, realistic color renderings.
 
